@@ -44,7 +44,7 @@ jobs:
           name: app
           path: app/build/outputs/apk/debug/*.apk
   test-android:
-    runs-on: macos-latest
+    runs-on: macos-11.0
     strategy:
       matrix:
         api-level: [21, 29]
