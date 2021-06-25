@@ -614,7 +614,7 @@
     <string name="settings_category_notification_title">Notifikasi</string>
     <string name="notification_action_nothing">Tidak ada</string>
     <string name="notification_action_buffering">Bufer</string>
-    <string name="notification_action_shuffle">Aduk</string>
+    <string name="notification_action_shuffle">Acak</string>
     <string name="notification_action_repeat">Ulangi</string>
     <string name="notification_actions_at_most_three">Anda bisa memilih hingga tiga tindakan untuk ditampilkan dalam notifikasi ringkas!</string>
     <string name="notification_actions_summary">Sentuh untuk menyunting tindakan notifikasi di bawah. Pilih hingga tiga diantaranya untuk ditampilkan dalam notifikasi ringkas dengan menggunakan kotak centang di sebelah kanan.</string>
